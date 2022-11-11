@@ -71,7 +71,7 @@ a {
 .banner-img {
   padding-top: 56.25%;
 
-  background: #ccc url("http://placehold.it/1920x1080/556B2F") no-repeat center center;
+  background: #ccc url("https://placehold.it/1920x1080/556B2F") no-repeat center center;
   background-size: contain;
 }
 
@@ -88,7 +88,7 @@ a {
 }
 
 .banner-simple {
-  background: #cd853f url("http://placehold.it/1920x400/cd853f") no-repeat center center;
+  background: #cd853f url("https://placehold.it/1920x400/cd853f") no-repeat center center;
   background-position: cover;
 }
 
